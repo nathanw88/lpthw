@@ -1,0 +1,6 @@
+#print("Hello world!")
+print("Hello again!")
+print("I love typing this")
+print("how many times do I have to type this?")
+print("yay for commands.")
+print("I know how to print something to the screen now.")
